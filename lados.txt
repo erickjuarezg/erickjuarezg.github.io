@@ -1,0 +1,18 @@
+
+<html>
+<head>
+<title>Triángulos</title>
+</head>
+<body bgcolor="#062CFF>
+<table border=1 align="center">
+<tr>
+<td colspan=4 bgcolor="#5EFF57" valign="middle"><center><h2>Menú Lados</h2></td></center>
+</tr>
+<tr>
+<th bgcolor="#08B017"><a href="equilatero.html" target="lado">Equilátero</a></th>
+<th bgcolor="#08B017"><a href="isoseles.html" target="lado">Isósceles</a></th>
+<th bgcolor="#08B017"><a href="escaleno.html" target="lado">Escaleno</a></th>
+</tr>
+</table>
+</body>
+</html>
